@@ -23,8 +23,6 @@ The project demonstrates how to use **HAL libraries** in STM32CubeIDE to interfa
 📌 Hardware setup diagram:  
 ![Hardware Diagram](images/hardware_diagram.png)  
 
-📌 Real hardware prototype:  
-![Prototype](images/prototype.jpg)  
 
 ---
 
