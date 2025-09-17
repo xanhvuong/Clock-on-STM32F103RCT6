@@ -48,4 +48,4 @@ The project demonstrates how to use **HAL libraries** in STM32CubeIDE to interfa
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/stm32-digital-clock.git
+   git clone https://github.com/xanhvuong/Clock-on-STM32F103RCT6.git
