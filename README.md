@@ -22,6 +22,7 @@ The project demonstrates how to use **HAL libraries** in STM32CubeIDE to interfa
 - **Others**: Breadboard, jumper wires.  
 
 📌 Hardware setup diagram:  
+
 ![Hardware Diagram](https://github.com/xanhvuong/images/blob/master/GPIO_PIN.png)  
 
 
@@ -35,7 +36,13 @@ The project demonstrates how to use **HAL libraries** in STM32CubeIDE to interfa
 
 ---
 
-## 🎥 Demonstration
+## 🎥 Result
+- The circuit ran successfully.
+- The LCD correctly displayed the full time including hours, minutes, and seconds; the time increased continuously and reset back to 00:00:00 after 24 hours.
+- When Button 1 was pressed, the hour display increased by 30 minutes.
+- When Button 2 was pressed, the minute display increased by 30 seconds.
+- The LED turned ON during the time range from 18:00 to 06:00, and turned OFF during the range from 06:00 to 18:00.
+  
 📷 LCD output example:  
 ![LCD Output](images/lcd_output.png)  
 
