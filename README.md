@@ -1,5 +1,5 @@
 # ⏰ Digital Clock on STM32F103RCT6 with LCD16x2
-# Small project for my Microcontroller subject.
+# Small project for my Microcontroller subject since 2022
 
 ## 📖 Introduction
 This project implements a simple **digital clock** on the STM32F103RCT6 microcontroller.  
@@ -22,7 +22,7 @@ The project demonstrates how to use **HAL libraries** in STM32CubeIDE to interfa
 - **Others**: Breadboard, jumper wires.  
 
 📌 Hardware setup diagram:  
-![Hardware Diagram](images/hardware_diagram.png)  
+![Hardware Diagram](images/GPIO_PIN.png)  
 
 
 ---
