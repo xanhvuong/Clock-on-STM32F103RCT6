@@ -4,6 +4,7 @@
 ## 📖 Introduction
 This project implements a simple **digital clock** on the STM32F103RCT6 microcontroller.  
 The time (hours, minutes, seconds) is displayed on an **LCD16x2** screen.  
+Use external interrupt , configure on button
 The project demonstrates how to use **HAL libraries** in STM32CubeIDE to interface with peripherals and build an embedded system application.
 
 ✨ Key features:
@@ -22,8 +23,15 @@ The project demonstrates how to use **HAL libraries** in STM32CubeIDE to interfa
 - **Others**: Breadboard, jumper wires.  
 
 📌 Hardware setup diagram:  
+GPIO PIN Configuration
 <img src="https://github.com/xanhvuong/images/blob/master/GPIO_PIN.png" alt="Prototype" width="854" height="480"/>
-![Hardware Diagram](https://github.com/xanhvuong/images/blob/master/GPIO_PIN.png)  
+<img src="https://github.com/xanhvuong/images/blob/master/GPIO_PIN1.png" alt="Prototype" width="854" height="480"/>
+
+Timer (TIM1) configuration
+<img src="https://github.com/xanhvuong/images/blob/master/TIM1.png" alt="Prototype" width="854" height="480"/>
+
+Timer (TIM1) interrupt configuration
+<img src="https://github.com/xanhvuong/images/blob/master/TIM1_interrupt.png" alt="Prototype" width="854" height="480"/>
 
 
 ---
@@ -32,7 +40,6 @@ The project demonstrates how to use **HAL libraries** in STM32CubeIDE to interfa
 - **IDE**: STM32CubeIDE.  
 - **Language**: C (HAL-based).  
 - **Libraries**: STM32 HAL drivers.  
-- **Version Control**: Git.  
 
 ---
 
