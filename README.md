@@ -51,3 +51,13 @@ Timer (TIM1) interrupt configuration.
 - When Button 1 was pressed, the hour display increased by 30 minutes.
 - When Button 2 was pressed, the minute display increased by 30 seconds.
 - The LED turned ON during the time range from 18:00 to 06:00, and turned OFF during the range from 06:00 to 18:00.
+
+## Developments
+⏰ Alarm Function: Add an alarm clock feature with buzzer or LED indicator.
+🌡️ Temperature & Humidity Display: Integrate sensors like DHT11/DS18B20 to show environment data along with the clock.
+📡 IoT Connectivity: Connect with ESP8266/ESP32 to sync time via NTP (Network Time Protocol) or update to cloud.
+🔋 Battery Backup (RTC): Use an external RTC module (DS3231) with battery to keep time running even when powered off.
+📱 Mobile App Integration: Communicate with Android app via UART/Bluetooth for time setting or alarm control.
+🌙 Smart Night Mode: Automatically dim or turn off LCD backlight during certain hours to save power.
+🔔 Event Reminder: Add multiple alarms/reminders stored in memory.
+🖼️ UI Upgrade: Use a larger LCD (20x4) or OLED screen for better readability and more features (date, temperature).
