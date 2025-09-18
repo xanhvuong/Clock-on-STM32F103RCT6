@@ -6,6 +6,8 @@ This project implements a simple **digital clock** on the STM32F103RCT6 microcon
 The time (hours, minutes, seconds) is displayed on an **LCD16x2** screen.  
 Use external interrupt , configure on button
 The project demonstrates how to use **HAL libraries** in STM32CubeIDE to interface with peripherals and build an embedded system application.
+The Code.cpp is the main code for the program in .ioc file , sorry for the inconvinience
+
 
 ✨ Key features:
 - Real-time clock display (HH:MM:SS).
