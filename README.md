@@ -28,10 +28,10 @@ GPIO PIN Configuration
 <img src="https://github.com/xanhvuong/images/blob/master/GPIO_PIN1.png" alt="Prototype" width="854" height="480"/>
 
 Timer (TIM1) configuration
-<img src="https://github.com/xanhvuong/images/blob/master/TIM1.png" alt="Prototype" width="854" height="480"/>
+<img src="https://github.com/xanhvuong/images/blob/master/TIM1.png" alt="Prototype" width="480" height="854"/>
 
 Timer (TIM1) interrupt configuration
-<img src="https://github.com/xanhvuong/images/blob/master/TIM1_interrupt.png" alt="Prototype" width="854" height="480"/>
+<img src="https://github.com/xanhvuong/images/blob/master/TIM1_interrupt.png" alt="Prototype" width="480" height="854"/>
 
 
 ---
