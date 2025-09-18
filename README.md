@@ -1,4 +1,5 @@
 # ⏰ Digital Clock on STM32F103RCT6 with LCD16x2
+# Small project for my Microcontroller subject.
 
 ## 📖 Introduction
 This project implements a simple **digital clock** on the STM32F103RCT6 microcontroller.  
