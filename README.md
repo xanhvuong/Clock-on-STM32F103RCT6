@@ -22,7 +22,7 @@ The project demonstrates how to use **HAL libraries** in STM32CubeIDE to interfa
 - **Others**: Breadboard, jumper wires.  
 
 📌 Hardware setup diagram:  
-![Hardware Diagram](images/GPIO_PIN.png)  
+![Hardware Diagram](https://github.com/xanhvuong/images/blob/master/GPIO_PIN.png)  
 
 
 ---
